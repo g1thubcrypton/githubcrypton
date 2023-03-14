@@ -4,6 +4,6 @@
   </p align="center">
   
   * 🍾 Hola 
-  * 🪪 Diferentes identidades  
+  * 🪪 ID falsas 
   * 👨‍💻 Programacion y hacking
   * ✈️ Siempre Trippeado 

@@ -7,3 +7,4 @@
   * 🪪 ID falsas 
   * 👨‍💻 Programacion y hacking
   * ✈️ Siempre Trippeado 
+# INFORMACION 📜
